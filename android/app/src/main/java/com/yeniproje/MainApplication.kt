@@ -1,4 +1,4 @@
-package com.icphackathon
+package com.ICPHackathon
 
 import android.app.Application
 import com.facebook.react.PackageList
