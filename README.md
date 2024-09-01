@@ -8,7 +8,6 @@ Welcome to the **Blockchain-Based Medicine Tracking System** project! 🚀 This 
 - [Features](#features)
 - [Technology Stack](#technology-stack)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -36,6 +35,15 @@ This system utilizes blockchain to track and verify imported slimming pills and 
 - **QR Code Generation**: [react-native-qrcode-svg](https://github.com/awesomejerry/react-native-qrcode-svg)
 - **Authentication**: [DFINITY Auth Client](https://sdk.dfinity.org/docs/developers-guide/auth.html)
 
+## 🤝 Contributing
+We welcome contributions to enhance this project! Please follow these steps:
 
- ** Project Presentation Link : https://www.canva.com/design/DAGPi-8tElI/keblmXWM22oOmOYKVV9kJw/edit
- ** https://www.figma.com/design/zF56Xt1oi49Ki7aW2FzlEC/Untitled?node-id=0-1&t=hAFcaNCc0A4ZCnGC-1
+Fork the Repository
+Create a New Branch
+Make Your Changes
+Submit a Pull Request
+
+
+
+ - **Project Presentation Link : https://www.canva.com/design/DAGPi-8tElI/keblmXWM22oOmOYKVV9kJw/edit
+ - **https://www.figma.com/design/zF56Xt1oi49Ki7aW2FzlEC/Untitled?node-id=0-1&t=hAFcaNCc0A4ZCnGC-1
