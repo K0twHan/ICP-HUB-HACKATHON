@@ -1,79 +1,40 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Blockchain-Based Medicine Tracking System
 
-# Getting Started
+Welcome to the **Blockchain-Based Medicine Tracking System** project! 🚀 This project aims to ensure the authenticity of internationally imported slimming pills and dietary supplements that are primarily sold online, not in pharmacies. By leveraging blockchain technology, we track these products through their barcodes, recording their locations and handlers. Users can verify the authenticity of these products using our web and mobile applications by scanning the QR codes.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## 📜 Table of Contents
 
-## Step 1: Start the Metro Server
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Technology Stack](#technology-stack)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+## 🚀 Project Overview
 
-To start Metro, run the following command from the _root_ of your React Native project:
+This system utilizes blockchain to track and verify imported slimming pills and dietary supplements. The main components include:
 
-```bash
-# using npm
-npm start
+- **Barcode Tracking**: Each product's barcode is registered on the blockchain.
+- **Location and Handler Recording**: Track where and by whom the product has been handled.
+- **QR Code Generation**: Generate QR codes for easy scanning and verification.
+- **Web and Mobile Apps**: Users can scan QR codes with our web and mobile applications to check product authenticity.
 
-# OR using Yarn
-yarn start
-```
+## ✨ Features
 
-## Step 2: Start your Application
+- **Secure Tracking**: All product data is securely recorded on the blockchain.
+- **QR Code Verification**: Instant verification of product authenticity through QR code scanning.
+- **User-Friendly Applications**: Intuitive web and mobile apps for easy access and verification.
+- **Real-Time Updates**: Get real-time information about the product's journey and handling.
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+## 🛠 Technology Stack
 
-### For Android
+- **Blockchain**: [DFINITY](https://dfinity.org/)
+- **Frontend**: [React](https://reactjs.org/) (Web), [React Native](https://reactnative.dev/) (Mobile)
+- **Backend**: [Node.js](https://nodejs.org/) with [Express](https://expressjs.com/)
+- **QR Code Generation**: [react-native-qrcode-svg](https://github.com/awesomejerry/react-native-qrcode-svg)
+- **Authentication**: [DFINITY Auth Client](https://sdk.dfinity.org/docs/developers-guide/auth.html)
 
-```bash
-# using npm
-npm run android
 
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+## Project Presentation Link : https://www.canva.com/design/DAGPi-8tElI/keblmXWM22oOmOYKVV9kJw/edit
