@@ -37,4 +37,5 @@ This system utilizes blockchain to track and verify imported slimming pills and 
 - **Authentication**: [DFINITY Auth Client](https://sdk.dfinity.org/docs/developers-guide/auth.html)
 
 
-## Project Presentation Link : https://www.canva.com/design/DAGPi-8tElI/keblmXWM22oOmOYKVV9kJw/edit
+ ** Project Presentation Link : https://www.canva.com/design/DAGPi-8tElI/keblmXWM22oOmOYKVV9kJw/edit
+ ** https://www.figma.com/design/zF56Xt1oi49Ki7aW2FzlEC/Untitled?node-id=0-1&t=hAFcaNCc0A4ZCnGC-1
