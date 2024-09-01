@@ -81,9 +81,11 @@ android {
     defaultConfig {
         applicationId "com.ICPHackathon"
         minSdkVersion rootProject.ext.minSdkVersion
+        signingConfig signingConfigs.debug
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
         versionName "1.0"
+        missingDimensionStrategy 'react-native-camera', 'general'
     }
     signingConfigs {
         debug {

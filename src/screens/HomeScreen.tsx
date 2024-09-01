@@ -2,6 +2,7 @@ import { useNavigation } from '@react-navigation/native';
 import React from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, GestureResponderEvent } from 'react-native';
 
+
 const HomeScreen: React.FC = () => {
   const navigation = useNavigation();
 
@@ -15,6 +16,9 @@ const HomeScreen: React.FC = () => {
   };
 
   return (
+    
+
+
     <View style={styles.container}>
       <Text style={styles.title}>Giriş Sayfası</Text>
       <TouchableOpacity style={styles.connectButton} onPress={handleConnectPhantom}>
