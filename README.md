@@ -38,13 +38,13 @@ This system utilizes blockchain to track and verify imported slimming pills and 
 ## 🤝 Contributing
 We welcome contributions to enhance this project! Please follow these steps:
 
-- **Fork the Repository
-- **Create a New Branch
-- **Make Your Changes
-- **Submit a Pull Request
+- **Fork the Repository**
+- **Create a New Branch**
+- **Make Your Changes**
+- **Submit a Pull Request**
 
 
 
 ## 🚄 Extras
- - **Project Presentation Link : https://www.canva.com/design/DAGPi-8tElI/keblmXWM22oOmOYKVV9kJw/edit
- - **https://www.figma.com/design/zF56Xt1oi49Ki7aW2FzlEC/Untitled?node-id=0-1&t=hAFcaNCc0A4ZCnGC-1
+ - **Project Presentation Link :** https://www.canva.com/design/DAGPi-8tElI/keblmXWM22oOmOYKVV9kJw/edit
+ - **Figma Link :** https://www.figma.com/design/zF56Xt1oi49Ki7aW2FzlEC/Untitled?node-id=0-1&t=hAFcaNCc0A4ZCnGC-1
